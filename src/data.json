@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/baymax.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/barbie.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/Agnes.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/Bingbong.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/Boo.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/federickson.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/jackjack.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/Lotso.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/Mike.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/minion.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/nemo.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/WallE.png",
+      "clicked": false
+    }
+  ]
+  
